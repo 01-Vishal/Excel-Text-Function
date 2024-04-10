@@ -12,8 +12,7 @@ Throughout this project, we will utilize Excel's formulaic capabilities to disse
 
 #Snapshot of data After/Before
 
--Snap1: 
-![Capture1](https://github.com/01-Vishal/Excel-Text-Function/assets/142687548/03750b8d-ac74-482a-a062-d1cea114aa30)
+-Snap_1![Capture1](https://github.com/01-Vishal/Excel-Text-Function/assets/142687548/03750b8d-ac74-482a-a062-d1cea114aa30)
 
 ##Step Followed
 
@@ -21,5 +20,4 @@ Throughout this project, we will utilize Excel's formulaic capabilities to disse
 - Subtitute Function
 - Len Function
 
--Snap2:
-![Capture2](https://github.com/01-Vishal/Excel-Text-Function/assets/142687548/60c90a77-57c7-4cfe-bd3e-11278bb2ed19)
+-Snap_2![Capture2](https://github.com/01-Vishal/Excel-Text-Function/assets/142687548/60c90a77-57c7-4cfe-bd3e-11278bb2ed19)
